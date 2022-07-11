@@ -1,0 +1,35 @@
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav >
+.active > a:hover,
+.navbar-inverse
+.navbar-nav >
+.active > a:focus,
+.tool-box .box-gear,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active
+{
+    background-color: #50d74c;
+}
+.about h1 span,
+ .footer .fa-copyright span,
+ .footer h3,
+ .team .person i:hover,
+ .testimonial span {
+     color: #50d74c;
+ }
+.tool-box .color {
+     border: 4px solid #50d74c;
+}
+.navbar-nav > li > .dropdown-menu {
+    border-top: 3px solid #50d74c;
+}
+.feature h1,
+.price h1 {
+    border-bottom: 3px solid #50d74c;
+}
+.testimonial .carousel-indicators .active {
+    border: 3px solid #50d74c;
+}
+.price .part-price:hover p {
+    border: 2px solid #50d74c;
+}
