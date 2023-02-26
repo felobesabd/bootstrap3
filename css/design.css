@@ -118,6 +118,7 @@ h1 h2 h3 h4 .lead {
     background-color: #eee;
     padding-bottom: 60px;
     padding-top: 60px;
+    overflow: hidden;
 }
 .feature h1{
     font-weight: bold;
@@ -189,6 +190,7 @@ h1 h2 h3 h4 .lead {
 /* price */
 .price {
     background-color: #eee;
+    overflow: hidden;
 }
 .price h1 {
     font-weight: bold;
@@ -233,6 +235,7 @@ h1 h2 h3 h4 .lead {
     background-size: cover;
     min-height: 600px;
     width: 100%;
+    overflow: hidden;
 }
 .team .our-team {
     background-color: rgba(2,2,2,0.8);
@@ -326,6 +329,7 @@ margin-bottom: 60px;
 .our-skills {
     padding-top: 40px;
     padding-bottom: 70px;
+    overflow: hidden;
 }
 .our-skills h1 {
     margin-bottom: 50px;
@@ -349,6 +353,7 @@ margin-bottom: 60px;
     background-image: url("../images/contact-us.jpg");
     background-size: cover;
     min-height: 300px;
+    overflow: hidden;
 }
 .us {
     background-color: rgba(70,60,30,0.7);
